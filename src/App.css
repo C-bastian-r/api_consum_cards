@@ -1,5 +1,10 @@
+
+
 .App {
   text-align: center;
+  background-image: url(https://th.bing.com/th/id/R.c7f5a6506dd91881d2b2e71918d312cc?rik=5qSYZHEBG%2bTDnw&pid=ImgRaw&r=0);
+  background-size: cover;
+
 }
 
 .App-logo {
@@ -14,6 +19,7 @@
 }
 
 .App-header {
+
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
