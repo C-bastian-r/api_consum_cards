@@ -8,7 +8,7 @@ import { doPostArray } from './utiles/doPostArray';
 
 
 function App() {
-  const{ data } = useFetch("https://rickandmortyapi.com/api/character")
+  const{ data } = useFetch("http://localhost:4000/api")
 
   const [selectedCards, setSelectedCards] = useState([]);
 

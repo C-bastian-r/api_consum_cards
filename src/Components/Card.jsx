@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../Styles/Card.css"
+
 export function Card({ id, name, imag, location, status, onSelect }){
 
   //estado de seleccion -> true:false
