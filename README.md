@@ -1,5 +1,3 @@
-# link pagina
-https://heraclean-pans.000webhostapp.com/
 
 # Getting Started with Create React App
 
